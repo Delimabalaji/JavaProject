@@ -13,7 +13,7 @@ public class MethodsDemo {
 		d1.getuserData();
 		getData2();
 		
-	//checking purpose for updates in github	
+		
 		
 	}
 	public String getData()
